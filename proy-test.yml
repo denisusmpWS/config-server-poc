@@ -1,2 +1,4 @@
-name:
-  alias: test
+spring:
+  application:
+    name: proy-test
+alias: developer
